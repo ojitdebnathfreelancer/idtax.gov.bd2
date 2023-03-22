@@ -69,14 +69,14 @@ const Document = () => {
                      <div className="grid grid-cols-6 col-span-2">
                         <p className="">মালিকের নাম : </p>
                         <p className="border-dotted border-b border-gray-800 col-span-5 px-3">
-                           হাজী আমিন উদ্দিন জমাদ্দার
+                           ফেরদাউস জমাদ্দার
                         </p>
                      </div>
                   </div>
                   <div className="grid grid-cols-5">
                      <p>২ নং রেজিস্টার অনুযায়ী হোল্ডিং নম্বার : </p>
                      <p className="border-dotted border-b border-gray-800 col-span-4 px-3">
-                        ১৫৩
+                        ৮২৫
                      </p>
                   </div>
                   <div className="grid grid-cols-12 my-1.5">
@@ -88,19 +88,19 @@ const Document = () => {
                   <div className="grid grid-cols-12 my-1.5">
                      <p>খতিয়ান নং : </p>
                      <p className="border-dotted border-b border-gray-800 col-span-11 px-3">
-                        ১১০
+                        ৮০৩
                      </p>
                   </div>
                   <div className="grid grid-cols-12 my-1.5">
                      <p>দাগ নং : </p>
                      <p className="border-dotted border-b border-gray-800 col-span-11 px-3">
-                        ২৮৫৭, ২৮৭২
+                        ২৬২৬, ২৮১০, ২৮১১, ২৮২৩, ২৮২৪, ২৮২৯, ২৮৩৬, ২৮৩৮, ২৮৩৯, ২৮৪০, ২৮৭৫
                      </p>
                   </div>
                   <div className="grid grid-cols-12 my-1.5">
                      <p className="col-span-2">জমির পরিমাণ (শতক) : </p>
                      <p className="border-dotted border-b border-gray-800 col-span-10 px-3">
-                        ১০.৩৮ , ১২.৫
+                        ৫.৫ , ৩.৫, ১০৫.৬৩, ২.২৫, ১৬.২৫, ২৪,৫, ২৩.৫, ১৮, ১৩, ১৪, ৩৪.৫
                      </p>
                   </div>
                </div>
@@ -158,22 +158,22 @@ const Document = () => {
                         <tbody class="bg-white text-gray text-[13px]">
                            <tr class="text-center hover:bg-[#f5f5f5]">
                               <td class="px-4 py-2 border">
-                                 <p>৪,৪৩২</p>
+                                 <p>০</p>
                               </td>
                               <td class="px-4 py-2 border">
-                                 <p>৮৪৬</p>
+                                 <p>৬১৬২</p>
                               </td>
                               <td class="px-4 py-2 border">
-                                 <p>৫,৫৮৩</p>
+                                 <p>৭৮৪</p>
                               </td>
                               <td class="px-4 py-2 border">
-                                 <p>২৮২</p>
+                                 <p>২০৫৪</p>
                               </td>
                               <td class="px-4 py-2 border">
-                                 <p>১১,১৪৩</p>
+                                 <p>৯০০০</p>
                               </td>
                               <td class="px-4 py-2 border">
-                                 <p>১১,১৪৩</p>
+                                 <p>৯০০০</p>
                               </td>
                               <td class="px-4 py-2 border">
                                  <p>০</p>
@@ -193,10 +193,10 @@ const Document = () => {
                <div className="grid grid-cols-12">
                   <div className="col-span-6">
                      <p className="border-dotted border-b border-gray-800 col-span-10 px-3">
-                        সর্বমোট (কথায়): এগার হাজার এক শত তেতাল্লিশ টাকা মাত্র ।
+                        সর্বমোট (কথায়): নয় হাজার টাকা মাত্র ।
                      </p>
                      <p className="py-1">
-                        নোট: সর্বশেষ কর পরিশোধের সাল - ১৩৮৪ থেকে ১৪২৯
+                        নোট: সর্বশেষ কর পরিশোধের সাল - ১৪২৬ থেকে ১৪২৯
                      </p>
                      <p className="py-1">
                         প্রদানকারির নাম : তানিয়া আক্তার সুমি,রুনু বেগম
