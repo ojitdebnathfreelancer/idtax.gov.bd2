@@ -24,7 +24,7 @@ const Document = () => {
                   </div>
                   <div className="text-end">
                      <p>(পরিশিষ্ট: ৩৮)</p>
-                     <p>ক্রমিক নং 545422010440</p>
+                     <p>ক্রমিক নং ৫৪৫৪২২০১০৪৪০</p>
                   </div>
                </div>
             </div>
@@ -76,13 +76,13 @@ const Document = () => {
                   <div className="grid grid-cols-5">
                      <p>২ নং রেজিস্টার অনুযায়ী হোল্ডিং নম্বার : </p>
                      <p className="border-dotted border-b border-gray-800 col-span-4 px-3">
-                        153
+                        ১৫৩
                      </p>
                   </div>
                   <div className="grid grid-cols-12 my-1.5">
                      <p>জমির শ্রেণী : </p>
                      <p className="border-dotted border-b border-gray-800 col-span-11 px-3">
-                        নাল ( কৃষি২ ) , বাড়ী ( আবাসিক )
+                        পালান ( আবাসিক )
                      </p>
                   </div>
                   <div className="grid grid-cols-12 my-1.5">
@@ -179,7 +179,7 @@ const Document = () => {
                                  <p>০</p>
                               </td>
                               <td class="px-4 py-2 border">
-                                 <p>০</p>
+                                 <p></p>
                               </td>
                            </tr>
                         </tbody>
